@@ -4,6 +4,7 @@ import java.util.Stack;
 
 public class WorkingWithStacks {
     public static void main(String[] args) {
+        // Stack : last in, first out LIFO
         Stack<Integer> stack = new Stack<>();
 
         stack.push(1);
